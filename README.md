@@ -2,8 +2,6 @@
 
 # Lab Assignment 4: Writing Your Own Unix Shell
 
-# Due: Sun., May 7, 11:59PM
-
 ## Introduction
 
 The purpose of this assignment is to become more familiar with the concepts of process control and sig-
